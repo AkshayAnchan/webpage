@@ -1,0 +1,40 @@
+div{
+    background-color: #eee;
+    margin: 30px 100px 30px 100px;
+    padding:20px;
+    border-radius: 10px;    
+}
+header{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    font-size:xx-large;
+    font-weight: bolder;
+}
+.centuty{
+    text-align: center;
+    font-size: larger;
+    font-weight:normal;
+}
+.Onassis{
+       padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+}
+.mrgin{
+    border: 1px solid #ddd;
+    padding:5px 5px 1px 5px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+.well{
+    text-align: center;
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #ddd;
+
+}
